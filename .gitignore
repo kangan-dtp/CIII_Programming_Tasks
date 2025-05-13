@@ -147,4 +147,5 @@ notebook/templates/*.html
 *.egg-info
 
 .conda
-.virtual_documentsvt
+.virtual_documents
+.ipynb_checkpoints
